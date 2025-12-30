@@ -287,7 +287,7 @@ export default function Home() {
 
                   {/* APK Direct Download */}
                   <a 
-                    href="/ngolavpn-v1.0.0.apk"
+                    href="/images/ngolavpn-v1.0.0.apk"
                     download="NgolaVPN-v1.0.0.apk"
                     className="border-2 border-secondary bg-secondary/10 hover:bg-secondary/20 text-white px-6 py-4 rounded-xl font-semibold transition-all hover:scale-105 flex items-center justify-center gap-3"
                   >
